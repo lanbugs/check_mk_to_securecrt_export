@@ -168,6 +168,8 @@ Finished :-)
 
 ## Finally
 
+![SecureCRT Session Manager](images/scrt_sessions.png)
+
 Have fun :-)
 
 ## Known bugs
